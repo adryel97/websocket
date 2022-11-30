@@ -18,4 +18,4 @@
 <hr>
 
 ## Descrição
-sobre o WebSocket, sempre tive um desafio em descorbrir como funciona, achei interessante o real time, rodar uma requisição em vários outros navegadores. Este apenas um teste de habilidades e conhecimento, o qual quero compartilhar com amigos e devs de todo o mundo. Sempre achei somente exemplo de chat, mas WebSocket pode ser muito mais que um simples chat. Se divirta, teste e explore esta ferramenta.
+Sobre o WebSocket, sempre tive um desafio em descorbrir como funciona, achei interessante o real time, rodar uma requisição em vários outros navegadores. Este apenas um teste de habilidades e conhecimento, o qual quero compartilhar com amigos e devs de todo o mundo. Sempre achei somente exemplo de chat, mas WebSocket pode ser muito mais que um simples chat. Se divirta, teste e explore esta ferramenta.
