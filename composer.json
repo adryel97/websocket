@@ -1,0 +1,25 @@
+{
+    "name": "programador/leafphp",
+    "authors": [
+        {
+            "name": "adryel97",
+            "email": "108001234+criacao3litoralcar@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "leafs/db": "^2.0",
+        "leafs/leaf": "^3.2",
+        "league/plates": "^3.4",
+        "coffeecode/datalayer": "^2.0",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" :"App/"
+        },        
+        "files": [
+            "config/config.php",
+            "config/db.php"
+        ]
+    }
+}
